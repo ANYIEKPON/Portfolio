@@ -52,7 +52,7 @@
     color: inherit;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .portfolio {
         height: 68vh;
         overflow: auto;
@@ -70,7 +70,7 @@
     text-align: center;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (min-width: 768px) {
     .portfolio {
         height: 68vh;
         overflow: auto;
@@ -82,4 +82,4 @@
         gap: 1.3rem;
        
     }
-}
+} */

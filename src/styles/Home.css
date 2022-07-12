@@ -60,7 +60,7 @@ ol{
 
 @media screen and (max-width: 768px) {
     .home {
-        height: 75vh;
+        height: 70vh;
         width: 100%;
         align-items: center;
         font-family: 'Arial', sans-serif;
@@ -94,11 +94,11 @@ ol{
     }
 
     .skills {
-        height: 45vh;
+        height: 40vh;
         justify-content: center;
         align-items: center;
         text-align: center; 
-        font-size: 18px;
+        font-size: 12px;
         /* margin-right: 2rem; */
     }
 
